@@ -1,0 +1,13 @@
+**/bin/*
+**/build/*
+**/out/*
+**/.idea/*
+**/.settings/*
+**/.gradle/*
+**/.vscode/*
+.classpath
+.project
+.xml
+/.metadata/
+/.recommenders/
+/out/
