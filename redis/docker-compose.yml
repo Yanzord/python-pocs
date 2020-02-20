@@ -1,0 +1,5 @@
+  redis:
+    container_name: redis4
+    image: redis:4-alpine
+    ports:
+      - "6379:6379"
