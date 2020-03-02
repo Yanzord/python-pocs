@@ -5,6 +5,8 @@
 **/.settings/*
 **/.gradle/*
 **/.vscode/*
+**/env/*
+**/__pycache__/*
 .classpath
 .project
 .xml
